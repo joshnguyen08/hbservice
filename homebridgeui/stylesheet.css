@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttonElement {
+    display: flex;
+    justify-content: center;
+
+}
+button {
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+
+.blinds{
+    display: flex;
+    justify-content: center;
+}
